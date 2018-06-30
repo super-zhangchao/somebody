@@ -1,5 +1,12 @@
 # somebody
 
+* sombody
+  * 站点 
+  * 知乎 
+  * 微博 
+  * CSDN
+  * GitHub
+  * 微信公众号
 
 * 红色石头
   * 个人网站：红色石头的机器学习之路 
@@ -17,6 +24,10 @@
   * [CV] http://jd92.wang/assets/files/cv_jindong_eng.pdf
   * [CV(Chinese)] http://jd92.wang/assets/files/cv_jindong_cn.pdf
   * 迁移学习简明手册 http://htmlpreview.github.io/?https://github.com/jindongwang/transferlearning-tutorial/blob/master/web/transfer_tutorial.html
+  * https://github.com/jindongwang/transferlearning-tutorial
+  北京工业大学
+  中科院计算技术研究所
+  https://www.zhihu.com/people/jindongwang/activities
   
 * 刘铁岩
   * http://dblp.uni-trier.de/pers/hd/l/Liu:Tie=Yan
@@ -34,14 +45,6 @@
 * 爱可可-爱生活
   * http://blog.sina.com.cn/s/blog_5396ee050102wqpe.html
   * 微博 https://weibo.com/fly51fly?refer_flag=1001030103
-  
-站点 知乎 微博 CSDN
-
-王晋东
-    https://github.com/jindongwang/transferlearning-tutorial
-    北京工业大学
-    中科院计算技术研究所
-    https://www.zhihu.com/people/jindongwang/activities
 
 大牛
     http://castellanzhang.github.io/
@@ -67,6 +70,8 @@ Hain Wang
 DarkScope
     http://blog.csdn.net/Dark_Scope/article/details/53150883
     https://www.zhihu.com/people/darkscope/answers
+    https://blog.csdn.net/dark_scope
+
 beck_zhou
     http://my.csdn.net/zhoubl668
     
@@ -79,6 +84,7 @@ brmson
         Python implementation of Shift-Reduce semantic parser: http://ceur-ws.org/Vol-1180/CLEF2014wn-QA-XuEt2014.pdf
     Household Intelligent Assistant
         This is a prototype of a speech-controlled personal assistant - easy to deploy (on Linux), can talk about the weather, tell you (very dry) jokes, the time and The Guardian news summary. Attention word scanning using PocketSphinx (locally, no background streaming to the cloud), speech reco powered by Google, intent detection by wit.ai. It responds to the name Phoenix /ˈfiːnɪks/. Enjoy!
+        
 Denny Britz
     http://blog.dennybritz.com/
     http://www.wildml.com/ 
