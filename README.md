@@ -8,6 +8,15 @@
   * GitHub
   * 微信公众号
 
+* 左耳朵耗子
+  * 技术一定会让人失业，但我没有生不逢时 http://www.sohu.com/a/141144201_355140
+  * 技术人员的发展之路 http://www.sohu.com/a/126862241_463994
+  * 左耳朵耗子的时间管理法则 http://www.sohu.com/a/219757586_355140
+  * 《极客时间》程序员时间管理的笔记 https://www.jianshu.com/p/076a31c92220
+  * 左耳听风 https://time.geekbang.org/column/intro/48?from=trial&code=GGVOKz%2FyFTRtOnWIHYr%2FvFsgL3ON7Xqwkdz2f7yTqD4%3D
+
+极客时间版权所有: https://time.geekbang.org/column/intro/48?from=trial&code=GGVOKz%2FyFTRtOnWIHYr%2FvFsgL3ON7Xqwkdz2f7yTqD4%3D
+
 * 红色石头
   * 个人网站：红色石头的机器学习之路 
   * CSDN博客：红色石头的专栏 https://blog.csdn.net/red_stone1
