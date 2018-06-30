@@ -46,36 +46,33 @@
   * http://blog.sina.com.cn/s/blog_5396ee050102wqpe.html
   * 微博 https://weibo.com/fly51fly?refer_flag=1001030103
 
-大牛
-    http://castellanzhang.github.io/
+* 大牛
+  * http://castellanzhang.github.io/
 
 Poll的笔记
-    http://www.cnblogs.com/maybe2030/p/5427148.html
+  * http://www.cnblogs.com/maybe2030/p/5427148.html
     
 徐晗曦
-    https://www.zhihu.com/people/hancy/answers
+  * https://www.zhihu.com/people/hancy/answers
 
 Koth
-    http://blog.csdn.net/pirage/article/details/53424544
-    https://github.com/koth
+  * http://blog.csdn.net/pirage/article/details/53424544
+  * https://github.com/koth
     
-Hain Wang
-    https://github.com/Samurais?tab=repositories
-  
-  https://github.com/Samurais/MatchZoo
-  
-  lihang_book_algorithm
+* Hain Wang
+  * https://github.com/Samurais?tab=repositories
+  * https://github.com/Samurais/MatchZoo
+  * lihang_book_algorithm
     我这里不介绍任何机器学习算法的原理，只是将《统计学习方法》中每一章的算法用我自己的方式实现一遍。 除了李航书上的算法外，还实现了一些其他机器学习的算法。
     
-DarkScope
-    http://blog.csdn.net/Dark_Scope/article/details/53150883
-    https://www.zhihu.com/people/darkscope/answers
-    https://blog.csdn.net/dark_scope
+* DarkScope
+  * http://blog.csdn.net/Dark_Scope/article/details/53150883
+  * https://www.zhihu.com/people/darkscope/answers
+  * https://blog.csdn.net/dark_scope
 
-beck_zhou
-    http://my.csdn.net/zhoubl668
-    
-    Deep Learning in NLP （一）词向量和语言模型
+* beck_zhou
+  * http://my.csdn.net/zhoubl668
+  * Deep Learning in NLP （一）词向量和语言模型
 
 brmson 
     Open Source Question Answering
